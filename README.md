@@ -5,3 +5,8 @@
 # Report
 
 Fork of [4D Report](https://github.com/4d/4D-Report)
+
+## Objectives
+
+- [ ] support RFC 4180 compliant CSV
+- [ ] support XLSX 
