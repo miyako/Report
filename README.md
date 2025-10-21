@@ -10,3 +10,7 @@ Fork of [4D Report](https://github.com/4d/4D-Report)
 
 - [ ] support [RFC 4180](https://datatracker.ietf.org/doc/html/rfc4180) compliant CSV
 - [ ] support XLSX 
+
+## Trackback URL
+
+- https://discuss.4d.com/t/quick-reports-add-a-csv-output-format-option-or-even-an-xlsx-option/23804
