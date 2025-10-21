@@ -11,8 +11,10 @@ Fork of [4D Report](https://github.com/4d/4D-Report)
 - [ ] support [RFC 4180](https://datatracker.ietf.org/doc/html/rfc4180) compliant CSV
 - [ ] support XLSX
 - [ ] support SpreadJS
+- [ ] update definition file format
 
 ## Trackback URL
 
 - https://discuss.4d.com/t/quick-reports-add-a-csv-output-format-option-or-even-an-xlsx-option/23804
 - https://discuss.4d.com/t/qr-v16-vs-v19/27805
+- https://discuss.4d.com/t/quick-reports-modernize-report-definition-file-to-json/23805
